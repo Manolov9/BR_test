@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Checkuniformudxml_Parallel01IT
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 92.707 sec - in Checkuniformudxml_Parallel01IT

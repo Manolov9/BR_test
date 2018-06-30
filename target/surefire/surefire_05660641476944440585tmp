@@ -1,0 +1,7 @@
+#surefire_0
+#Mon Dec 11 16:43:28 EET 2017
+browser=chrome
+user.dir=D\:\\IntelliJ\\BR_test\\cucumber-java-browserstack
+local=true
+localRepository=C\:\\Users\\Lucho\\.m2\\repository
+basedir=D\:\\IntelliJ\\BR_test\\cucumber-java-browserstack
